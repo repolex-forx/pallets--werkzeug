@@ -510,6 +510,21 @@
         "blob/df7f899262e6387a469de76ce88346cbf0f157bf.nq.gz",
         "blob/501793e01298604a646610da75c377d5ad2aad7a.nq.gz",
         "blob/9f23a3865d4ae5f9de260fff4f48e3dda8dfa5ef.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/dc9412a98397fcaefe909448c539c556a18d0180.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/dc9412a98397fcaefe909448c539c556a18d0180.nq.gz",
+      "repolex": "aggregate/repolex/dc9412a98397fcaefe909448c539c556a18d0180.nq.gz",
+      "dep": "dep/dc9412a98397fcaefe909448c539c556a18d0180.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
+        }
       ]
     }
   ],
