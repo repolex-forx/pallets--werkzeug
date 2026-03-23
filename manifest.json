@@ -102,6 +102,77 @@
         "blob/a22da1d71b4f1ae2227bd9fe3959150bf3414d1d.nq.gz",
         "blob/64cba241d1fdcac4aaae09ae0a274563446b3596.nq.gz",
         "blob/27fd381d82516af0e0f52d32e8422bb31114edea.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/f930a7821eff188a663252c390fa5ad2319d31c1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f930a7821eff188a663252c390fa5ad2319d31c1.nq.gz",
+      "repolex": "aggregate/repolex/f930a7821eff188a663252c390fa5ad2319d31c1.nq.gz",
+      "dep": "dep/f930a7821eff188a663252c390fa5ad2319d31c1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "simplewiki",
+          "packageVersion": "1.0.5",
+          "githubOrg": "myrccar",
+          "githubRepo": "simple-wiki",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "sets",
+          "packageVersion": "0.3.2",
+          "githubOrg": "danijar",
+          "githubRepo": "sets",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
+        },
+        {
+          "packageName": "compiler",
+          "packageVersion": "0.2.0",
+          "githubOrg": "xiaojieluo",
+          "githubRepo": "vlde",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "sqlalchemy",
+          "packageVersion": "2.1.0b1",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "example",
+          "packageVersion": "0.1.0",
+          "githubOrg": "mansam",
+          "githubRepo": "example",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+        },
+        {
+          "packageName": "ez-setup",
+          "packageVersion": "0.9.0",
+          "githubOrg": "ActiveState",
+          "githubRepo": "ez_setup",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "thread",
+          "packageVersion": "2.0.6",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread",
+          "githubCommit": "669e025f3f72ab62b7abba82f8d394a28e1f0611"
+        }
       ]
     }
   ],
