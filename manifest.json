@@ -1271,6 +1271,42 @@
         "blob/df7f899262e6387a469de76ce88346cbf0f157bf.nq.gz",
         "blob/501793e01298604a646610da75c377d5ad2aad7a.nq.gz",
         "blob/9f23a3865d4ae5f9de260fff4f48e3dda8dfa5ef.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/96e49709d627a7766077cff4c98ebf3cad868ceb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/96e49709d627a7766077cff4c98ebf3cad868ceb.nq.gz",
+      "repolex": "aggregate/repolex/96e49709d627a7766077cff4c98ebf3cad868ceb.nq.gz",
+      "dep": "dep/96e49709d627a7766077cff4c98ebf3cad868ceb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+        },
+        {
+          "packageName": "watchdog",
+          "packageVersion": "6.0.0",
+          "githubOrg": "gorakhargosh",
+          "githubRepo": "watchdog",
+          "githubCommit": "76c091dc8841de1d1a1cd6511bb509fe4f058de6"
+        }
       ]
     }
   ],
