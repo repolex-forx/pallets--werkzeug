@@ -3413,6 +3413,84 @@
         "blob/d3fdb81dcd17a3411799e406fd765d8b876889b9.nq.gz",
         "blob/0ccc186d0bf4126bd4a7f6c77721a980750833b8.nq.gz",
         "blob/9f23a3865d4ae5f9de260fff4f48e3dda8dfa5ef.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/05978170acf3df1e54c77b0c9804fdaced82f83b.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/05978170acf3df1e54c77b0c9804fdaced82f83b.nq.gz",
+      "repolex": "aggregate/repolex/05978170acf3df1e54c77b0c9804fdaced82f83b.nq.gz",
+      "dep": "dep/05978170acf3df1e54c77b0c9804fdaced82f83b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.7",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug",
+          "githubCommit": "005d93bf3437226ab185d2edc6132918d3e45763"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+        },
+        {
+          "packageName": "watchdog",
+          "packageVersion": "6.0.0",
+          "githubOrg": "gorakhargosh",
+          "githubRepo": "watchdog",
+          "githubCommit": "76c091dc8841de1d1a1cd6511bb509fe4f058de6"
+        },
+        {
+          "packageName": "pylibmc",
+          "packageVersion": "1.6.3",
+          "githubOrg": "lericson",
+          "githubRepo": "pylibmc",
+          "githubCommit": "66632b38711b9e3e1f5418298f531fd84c679a05"
+        },
+        {
+          "packageName": "redis",
+          "packageVersion": "7.3.0",
+          "githubOrg": "redis",
+          "githubRepo": "redis-py",
+          "githubCommit": "8ecbc7a728792ab9c71078cb330a64c225cb3351"
+        },
+        {
+          "packageName": "lxml",
+          "packageVersion": "6.0.2",
+          "githubOrg": "lxml",
+          "githubRepo": "lxml",
+          "githubCommit": "283d02ec8966c0e99f4666dc7bdd936479e97246"
+        },
+        {
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+        },
+        {
+          "packageName": "bar",
+          "packageVersion": "0.2.1",
+          "githubOrg": "utdemir",
+          "githubRepo": "bar",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "thread",
+          "packageVersion": "2.0.6",
+          "githubOrg": "python-thread",
+          "githubRepo": "thread",
+          "githubCommit": "669e025f3f72ab62b7abba82f8d394a28e1f0611"
+        }
       ]
     }
   ],
