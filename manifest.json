@@ -4368,6 +4368,38 @@
         "blob/11425f54fe111535933580574d038d0da63f1dc5.nq.gz",
         "blob/7c465b7a7caba50deac64cc62b4d693fbb0d27c6.nq.gz",
         "blob/d17dc078c7be8b17035c63efff8dcb0fda2a16e3.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/a5398b1b95d295198b95780c9cbba5c8b50a5edb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a5398b1b95d295198b95780c9cbba5c8b50a5edb.nq.gz",
+      "repolex": "aggregate/repolex/a5398b1b95d295198b95780c9cbba5c8b50a5edb.nq.gz",
+      "dep": "dep/a5398b1b95d295198b95780c9cbba5c8b50a5edb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.33.1",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "111d2b77790bf49943c0dfa09b365371c24aec7e",
+          "githubTag": "v2.33.1",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/requests/__init__.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/_distutils/core.py"
+        }
       ]
     }
   ],
